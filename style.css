@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background-image: url('https://ak.picdn.net/shutterstock/videos/1047032053/thumb/1.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+span {
+	font-size: 18px;
+	color: red;
+}
+
+canvas {
+	background: seagreen;
+	border-radius: 20px;
+}
+
+.heading {
+	font-size: 25px;
+}
+
+#status {
+	background-color: red;
+	color: yellow;
+	font-size: 22px;
+	font-weight: bold;
+	padding: 7px;
+	margin-right: 10px;
+}
